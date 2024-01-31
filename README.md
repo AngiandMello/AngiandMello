@@ -11,12 +11,12 @@ I'm an enthusiastic junior web developer with a strong interest in crafting impr
 🌐 Enthusiastic about modern web technologies and trends
 
 🌟 Why GitHub:
+
 GitHub is where I refine my development skills and share my projects with the world. I'm always open to feedback and collaboration!
 
 📫 Contact:
 
-www.linkedin.com/in/angelika-adamska-a88224253
-_
+www.linkedin.com/in/angelika-adamska-a88224253 || 
 Angelika.Adamska@yahoo.com
 
 Thank you for visiting! Feel free to explore, and let me know if you have any questions or if you're interested in collaborating. Happy coding! 🚀
