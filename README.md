@@ -16,6 +16,7 @@ GitHub is where I refine my development skills and share my projects with the wo
 📫 Contact:
 
 www.linkedin.com/in/angelika-adamska-a88224253
+
 Angelika.Adamska@yahoo.com
 
 Thank you for visiting! Feel free to explore, and let me know if you have any questions or if you're interested in collaborating. Happy coding! 🚀
